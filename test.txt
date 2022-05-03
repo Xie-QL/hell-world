@@ -4,3 +4,4 @@ I am in test! test mergin confict
 1111---test
 2222---git
 solve mergin comfict!
+test restore command
