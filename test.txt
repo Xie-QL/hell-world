@@ -1,2 +1,4 @@
 create test.txt file to the dev branchgit checkout -b dev!
 I am in git!
+I am in test! test mergin confict
+1111---test
